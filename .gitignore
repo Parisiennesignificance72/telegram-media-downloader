@@ -1,0 +1,26 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Bundled/local dependencies
+_vendor/
+
+# Downloads and temporary files
+download/
+*.part
+
+# Telegram login sessions — never commit these
+*.session
+*.session-journal
+
+# Local secrets and editor files
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
